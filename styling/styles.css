@@ -7,10 +7,11 @@ a:link {
     color:white;
     background-color: #00bf63;
     margin: 0;
+    padding: 10px;
     position: absolute;
     left: 50%;
-
     transform: translate(-50%, -50%);
+
 }
 
 .btn-loco {
@@ -76,4 +77,9 @@ a:link {
 
 .item-page {
     margin-top: 50px;
+}
+
+.about-team {
+    padding: 200px;
+    background: linear-gradient(to top right, #00bf63 32%, #fff3e1 68%)
 }
